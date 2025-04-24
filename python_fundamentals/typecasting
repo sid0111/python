@@ -1,0 +1,5 @@
+a = "sid"
+
+b = int(a)
+
+print(b)
